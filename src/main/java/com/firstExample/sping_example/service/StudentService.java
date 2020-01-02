@@ -17,6 +17,7 @@ public class StudentService {
     @Autowired
     private IdCardRepositry idCardRepositry;
 
+   
 
     public List<Student> getStudnetAgePlus10() {
         List<Student> students = new ArrayList<>();
