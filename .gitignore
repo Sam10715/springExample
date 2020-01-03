@@ -3,10 +3,10 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
-##SSSSS
-##sdgsgd
-##gdgs
-### STS ###
+##SSSSSsgdfsg
+##sdgsgdasf
+##gdgssgsg
+### STS ###sdgs
 .apt_generated
 .classpath
 .factorypath
@@ -15,7 +15,7 @@ target/
 .springBeans
 .sts4-cache
 
-### IntelliJ IDEA ###
+### IntelliJ IDEA ###sgs
 .idea
 *.iws
 *.iml
