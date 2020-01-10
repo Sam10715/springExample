@@ -4,15 +4,17 @@ target/
 !**/src/main/**
 !**/src/test/**
 <<<<<<< HEAD
-#s
-#s
-### STS ###
-=======
 ##SSSSSsgdfsg
 ##sdgsgdasf
 ##gdgssgsg
 ### STS ###sdgs
->>>>>>> NewTestBranch
+=======
+
+
+##
+##
+### STS ###
+>>>>>>> 34e07f66fa56873511a90cd56eb0d2aaefb2fda3
 .apt_generated
 .classpath
 .factorypath
@@ -21,7 +23,7 @@ target/
 .springBeans
 .sts4-cache
 
-### IntelliJ IDEA ###sgs
+### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
