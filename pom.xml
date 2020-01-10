@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.firstExample</groupId>
 	<artifactId>sping_example</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>sping_example</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -21,7 +21,7 @@
 		<connection>scm:git:https://github.com/Sam10715/springExample.git</connection>
 		<developerConnection>scm:git:https://github.com/Sam10715/springExample.git</developerConnection>
 		<url>scm:git:https://github.com/Sam10715/springExample.git</url>
-		<tag>sping_example-0.0.1</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<dependencies>
