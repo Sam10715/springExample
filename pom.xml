@@ -18,6 +18,13 @@
 		<java.version>1.8</java.version>
 	</properties>
 
+	<scm>
+		<connection>scm:git:https://github.com/Sam10715/springExample.git</connection>
+		<developerConnection>scm:git:https://github.com/Sam10715/springExample.git</developerConnection>
+		<url>scm:git:https://github.com/Sam10715/springExample.git</url>
+		<tag>HEAD</tag>
+	</scm>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>

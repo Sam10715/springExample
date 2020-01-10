@@ -89,7 +89,7 @@ class FirstControllerTest {
         Student student1=firstController.saveStudent(student);
 
 
-        Assert.assertTrue(student1.getAge()==student.getAge());
+        Assert.assertTrue(student1.getAge()==student.getA ge());
 
 
 
