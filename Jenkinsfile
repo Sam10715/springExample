@@ -9,7 +9,7 @@ pipeline {
        
         stage('Test') { 
             steps {
-                
+                echo "Hello it is me"
                 sh "mvn clean test " 
             }
         }
