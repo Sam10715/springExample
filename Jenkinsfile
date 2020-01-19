@@ -11,6 +11,8 @@ pipeline {
             steps {
                 echo "Hello it is me"
                 sh "mvn clean test " 
+                bat "git checkout -b samer"
+                bat "git push -u origin samer"
             }
         }
         stage('Deploy') { 
